@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612525596 source:d:\_developing\dsp course\c projects\idft\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1612514168 source:d:\_developing\dsp course\c projects\idft\waveforms.c
+
