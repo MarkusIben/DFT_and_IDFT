@@ -1,4 +1,4 @@
-CodeBlocks Project in C
+# CodeBlocks Project in C
 
 with digital signal processing (DSP) algorythms for:
 
